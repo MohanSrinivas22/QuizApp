@@ -26,6 +26,8 @@ public class NewQuizesPageAdapter extends FragmentStateAdapter {
      * @param position current swipe position
      * @return NewQuizFragment
      */
+
+    @NonNull
     @Override
     public Fragment createFragment(int position){
         int temp = position > 5 ? 1 : position;
