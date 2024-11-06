@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Capitals Quiz</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="help_fragment_text">
+    <![CDATA[
+            <h3>Capitals Quiz</h3> <p>This app can be used to write a new quiz and save the quiz.
+            Each quiz includes the <i>State</i>, <i>3 capital cities as options</i> and another question asking whether the capital city is the largest city.
+            Each correct answer will be rewarded with 1 point so you can get a maximum of 12 points for the quiz.
+            Upon answering the question, you can swipe left to go to next question and at the end of last question, you can swipe left to get final score.<br/><br/>
+            Open the nav drawer to view the navigation menu.  You will be able to invoke the app\'s functions.
+            You will be able to access the following screens:<br/><br/>
+             <b>New Quiz</b><br/>
+             Here, you will be able to start a new quiz and it consists of 12 questions.  You will be able to
+             answer each question bu clicking on one of the radio buttons provided.<br/><br/>
+             <b>Quiz History</b><br/>
+             Here, you will be able to review all of your previous quizzes.
+             Each previous quiz consists of quiz id , quiz result and the date and time of the quiz.
+             You can view each and every quiz answered by you.
+             <br/><br/>
+             <b>Close app</b><br/>
+             The app will be closed.<br/><br/>
+             <b>Get help</b><br/>
+             Useful help information about the app will be displayed.<br/><br/>
+        ]]>
+    </string>
+    <string name="splash_screen_text">
+        <![CDATA[
+        <h3>Capitals Quiz</h3> <p>This app can be used to write a new quiz and save the quiz.
+            Each quiz includes the <i>State</i>, <i>3 capital cities as options</i> and another question asking whether the capital city is the largest city.
+            Each correct answer will be rewarded with 1 point so you can get a maximum of 12 points for the quiz.
+            Upon answering the question, you can swipe left to go to next question and at the end of last question, you can swipe left to get final score.<br/><br/>
+             ]]>
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
